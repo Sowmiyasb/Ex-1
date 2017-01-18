@@ -1,7 +1,9 @@
 
-package com.example.activity;
+package com.example.fontstyle;
 
-import android.support.v7.app.ActionBarActivity;
+import android.support.v4.app.ActionBarActivity;
+
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;

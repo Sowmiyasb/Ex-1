@@ -1,4 +1,4 @@
-package com.example.activity;
+package com.example.fontstyle;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Typeface;
